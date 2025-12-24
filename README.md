@@ -98,6 +98,7 @@ I enjoy working on projects where **AI meets reality** — CCTV, videos, images,
 * Text preprocessing
 * Feature extraction
 * ML-based NLP models
+* Dl-based NLP models
 
 ### Deployment & Tools
 
