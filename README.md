@@ -124,7 +124,7 @@ I enjoy working on projects where **AI meets reality** — CCTV, videos, images,
 
 This GitHub profile showcases:
 
-* 📁 AI/ML & Computer Vision projects
+* 📁 AI/ML & Computer Vision And NLP projects
 * 📁 Clean, well-documented code
 * 📁 Academic + real-world implementations
 * 📁 Continuous learning and experimentation
